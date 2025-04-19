@@ -40,25 +40,62 @@ For the **Canadian General Social Survey on Giving, Volunteering, and Participat
 
 ## Part A - Survey Design: 
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `#`2
 
 Describe the purpose of your survey:
-```
-write your answer here...
-```
 
+The purpose of this survey is to help guide data-driven decision-making in the final phase of the campaign to maximize voter appeal and electoral success.
+
+
+```
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+The target population is all eligible Canadian voters. The sampling frame is the list of eligible Canadian voters. The sampling units are eligible voters from the sampling frame who are invited to participate in this survey. The observational units are the individual voters whose survey responses are collected.
+
+
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
+1. What are the top three issues that will most influence your vote in the upcoming federal election? Economy and jobs
+
+    Healthcare
+    Climate change and environment
+    Housing affordability
+    Education
+    Public safety
+    Immigration
+    Indigenous reconciliation
+    Other (please specify): ___________
+
+2. How likely are you to vote for our party in the upcoming federal election?
+
+    Definitely will vote for your party
+    Probably will vote for your party
+    Undecided
+    Probably will vote for another party
+    Definitely will vote for another party
+
+3. What could our party or its leader do to earn your vote or increase your confidence before election day?
+
+4. Which are the top 3 qualities are most important to you in the next Prime Minister?
+
+    Strong leadership
+    Honesty and integrity
+    Economic expertise
+    Compassion and empathy
+    Experience in government
+    Climate and environmental commitment
+    Ability to represent all Canadians
+
+5. How would you rate your overall satisfaction with our party’s performance during the campaign so far?
+
+    Very satisfied
+    Somewhat satisfied
+    Neutral
+    Somewhat dissatisfied
+    Very dissatisfied
+
 6. write your question here... (optional)
 7. write your question here... (optional)
 8. write your question here... (optional)
@@ -71,8 +108,40 @@ Your 5-10 question survey:
 Identify and describe survey features:
 
 ```
-write your answer here
-```
+1. Sample type
+    Combination of stratified, cross-sectional, and rejective sampling strategie
+2. Sample size
+   4430
+3. Target population
+    Individuals aged 15 years and older residing in private households across the ten Canadian provinces were included. The survey excluded residents of the Yukon, Northwest Territories, Nunavut, and full-time residents of institutions.
+4. Sampling frame
+    This survey uses a frame that combines landline and cellular telephone numbers from the Census and various administrative sources with Statistics Canada's dwelling frame. Records on the frame are groups of one or several telephone numbers associated with the same address (or single telephone number in the case a link between a telephone number and an address could not be established)
+5. Survey mode(s) 
+   Data are collected directly from survey respondents either through an electronic questionnaire or through CATI (computer assisted telephone interviewing). No proxy reporting is allowed. The respondents has the choice between French and English.
+6. Timeline
+    2018-09-04 to 2018-12-28
+7. Response rate
+     41.9%
+8. Weights
+ WGHT_PER: This is the basic weighting factor for analysis at the person level, i.e. to calculate estimates of the number of persons (non-institutionalized and aged 15 or over) having one or several given characteristics. In addition to the estimation weights, bootstrap weights have been created for the purpose of design-based variance estimation.
+9. Data processing
+    Verification of data consistency and accuracy
+    Coding of open-ended responses
+    Editing to correct identifiable errors
+    Imputation for missing or inconsistent responses
+10. Cleaning, imputation, etc
+    Data cleaning involved identifying and rectifying inconsistencies or errors in the responses. Imputation methods were applied to handle missing data, ensuring completeness of the dataset. 
+11. Sources of error
+    Sampling Error: Variability that arises because a sample, rather than the entire population, was surveyed.
+    Non-sampling Error: Errors not related to the sampling process, such as measurement errors, data processing errors, and non-response bias.
+12. Limitations, known biases, etc
+    Exclusion of certain populations: Residents of the territories and institutionalized individuals were not surveyed, which may affect the generalizability of results to these groups.
+
+    Mode Effects: Differences in responses between telephone and online modes could introduce variability.
+
+13. Link to documentation and any additional sources used
+```https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&Id=796234#a2
+
 
 ## Rubric
 
